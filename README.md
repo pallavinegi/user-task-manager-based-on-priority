@@ -54,6 +54,23 @@ npm start
 
 6. Open your browser and navigate to `http://localhost:5000`
 
+7. . ## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📝 Register Page
+![Register](screenshots/register.png)
+
+### ➕ Add Task
+![Add Task](screenshots/adding-task.png)
+
+### 📋 Managed Tasks
+![Tasks](screenshots/managed-tasks.png)
+
+### ⚡ Priority Queue
+![Priority](screenshots/priority-queue.png)
+
 ## Project Structure
 
 ```
