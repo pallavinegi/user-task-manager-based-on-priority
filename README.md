@@ -56,6 +56,8 @@ npm start
 
 7. . ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🔐 Login Page
 ![Login](screenshots/login.png)
 
@@ -66,11 +68,10 @@ npm start
 ![Add Task](screenshots/adding-task.png)
 
 ### 📋 Managed Tasks
-![Tasks](screenshots/managed-tasks.png)
+![Managed Tasks](screenshots/managed-tasks.png)
 
 ### ⚡ Priority Queue
 ![Priority](screenshots/priority-queue.png)
-
 ## Project Structure
 
 ```
